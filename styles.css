@@ -8,6 +8,9 @@
 
 
 /* Grilled cheese stuff goes here */
-.cheeseStyles h1 {
-    color: rebeccapurple
+.cheeseStyles body {
+    background-color: blue;
+}
+.cheeseStyles h1, h2, h3{
+    color: gold
 }
