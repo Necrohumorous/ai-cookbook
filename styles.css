@@ -1,16 +1,14 @@
 /* Default CSS stuff goes here */
 * {
     font-family: Georgia;
+    text-align: left;
 }
 
-
-
-
-
-/* Grilled cheese stuff goes here */
-.cheeseStyles body {
-    background-color: blue;
+body {
+    padding-left: 64px;
+    padding-right: 64px;
 }
-.cheeseStyles h1, h2, h3{
-    color: gold
+
+h1 {
+    text-align: center;
 }

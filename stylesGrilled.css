@@ -1,0 +1,13 @@
+* {
+    background-color: purple;
+    color: gold;
+}
+
+p {
+    margin-right: 40%;
+}
+
+ul {
+  list-style-image: image(cheeseBullet.png);
+  list-style-type: square;
+}
